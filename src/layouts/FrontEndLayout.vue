@@ -132,34 +132,45 @@
       <div class="tw-container tw-py-8 tw-mx-auto">
         <div class="tw-flex tw-justify-between tw-gap-6 tw-flex-wrap">
           <div class="tw-flex tw-justify-center tw-gap-2">
-            <i class="fa-solid fa-phone tw-p-1"></i>
+            <div class="tw-flex tw-pt-1">
+              <i class="fa-solid fa-phone tw-p-1 tw-pt-1"></i>
+            </div>
             <div class="tw-flex tw-flex-col tw-gap-1">
               <span class="tw-text-[22px] tw-ms-2 tw-font-serif tw-opacity-80"
                 >Give Us A Call
               </span>
               <div class="tw-ms-2 tw-text-[20px]">+971 52 204 7059</div>
+              <hr class="h-px my-8 bg-gray-200 tw-w-[200px] dark:bg-gray-700" />
             </div>
           </div>
           <div class="tw-flex tw-justify-center tw-gap-2">
-            <i class="fa-solid fa-envelope tw-p-1"></i>
+            <div class="tw-flex tw-pt-1">
+              <i class="fa-solid fa-envelope tw-p-1 tw-pt-1"></i>
+            </div>
             <div class="tw-flex tw-flex-col tw-gap-1">
               <span class="tw-text-[22px] tw-ms-2 tw-font-serif tw-opacity-80"
                 >Send Us Email</span
               >
               <div class="tw-ms-2 tw-text-[20px]">info@smematrimony.com</div>
+              <hr class="h-px my-8 bg-gray-200 tw-w-[250px] dark:bg-gray-700" />
             </div>
           </div>
           <div class="tw-flex tw-justify-center tw-gap-2">
-            <i class="fa-solid fa-location-dot tw-p-1"></i>
+            <div class="tw-flex tw-pt-1">
+              <i class="fa-solid fa-location-dot tw-p-1 tw-pt-1"></i>
+            </div>
             <div class="tw-flex tw-flex-col tw-gap-1">
               <span class="tw-text-[22px] tw-ms-2 tw-font-serif tw-opacity-80">
                 Head Office</span
               >
-              <div class="tw-ms-2 tw-text-[22px]">
+              <div
+                class="tw-ms-2 tw-text-[22px] tw-flex tw-items-start tw-flex-col"
+              >
                 224 Dorchester place Waterloo <br class="" />
-                <span class="tw-ms-2 tw-text-[22px]"
-                  >Ontario n2t2h7 Canada.</span
-                >
+                <span class="tw-text-[22px]">Ontario n2t2h7 Canada.</span>
+                <hr
+                  class="h-px my-8 bg-gray-200 tw-w-[300px] dark:bg-gray-700"
+                />
               </div>
             </div>
           </div>
